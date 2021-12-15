@@ -12,5 +12,5 @@ github_username:  KiwiChat
 markdown: kramdown
 
 staticman:
-  api: "https://staticman.ml/v3/entry/github/vincenttam/TestStaticmanLab/master/comments"
+  api: "https://staticman.ml/v3/entry/github/KiwiChat/TestStaticmanLab/master/comments"
   path: "_data/comments/test-slug"
