@@ -4,13 +4,13 @@ subtitle: A barebone GitHub Pages with static comments
 email: your-email@domain.com
 description: Test
 baseurl: ""
-url: "https://vincenttam.github.io/TestStaticmanLab/"
+url: "https://kiwichat.github.io/TestStaticmanLab/"
 locale: en
-github_username:  VincentTam
+github_username:  KiwiChat
 
 # Build settings
 markdown: kramdown
 
 staticman:
-  api: "https://secretman3.herokuapp.com/v3/entry/github/vincenttam/TestStaticmanLab/master/comments"
+  api: "https://staticman.ml/v3/entry/github/vincenttam/TestStaticmanLab/master/comments"
   path: "_data/comments/test-slug"
